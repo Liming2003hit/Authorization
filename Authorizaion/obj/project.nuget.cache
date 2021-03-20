@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oPDM4f1+P+iF6LH0orJh6loliZkxtLqtX/PCTO6khb2YujqRY32y9cvxUbelYD53jsWoryvkzAmu5N1NPuDE0A==",
+  "success": true,
+  "projectFilePath": "D:\\文档\\WPS Cloud Files\\348451108\\WPS Cloud Files\\李明的文件夹\\软件\\GitHub上存储的项目\\Authorization\\Authorizaion\\Authorizaion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\46139\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\46139\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

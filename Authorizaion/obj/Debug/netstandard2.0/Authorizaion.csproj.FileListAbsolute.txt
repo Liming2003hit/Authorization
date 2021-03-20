@@ -1,0 +1,8 @@
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\bin\Debug\netstandard2.0\Authorizaion.deps.json
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\bin\Debug\netstandard2.0\Authorizaion.dll
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\bin\Debug\netstandard2.0\Authorizaion.pdb
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\obj\Debug\netstandard2.0\Authorizaion.AssemblyInfoInputs.cache
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\obj\Debug\netstandard2.0\Authorizaion.AssemblyInfo.cs
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\obj\Debug\netstandard2.0\Authorizaion.csproj.CoreCompileInputs.cache
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\obj\Debug\netstandard2.0\Authorizaion.dll
+D:\文档\WPS Cloud Files\348451108\WPS Cloud Files\李明的文件夹\软件\GitHub上存储的项目\Authorization\Authorizaion\obj\Debug\netstandard2.0\Authorizaion.pdb
